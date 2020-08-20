@@ -21,9 +21,9 @@ else:
     print ("Successfully created the directory %s " % ful_path)
 
 # Ссылка на профиль и данные для авторизации
-base_url = (r'http://voice.agtel.net/79998877/')
-username = 79998877
-password = 'sj6CP3X3'
+base_url = (r'http://voice.agtel.net/12345678/')
+username = 12345678
+password = 'password'
 
 # создает объект для авторизации
 basicAuthCredentials = (username, password)
